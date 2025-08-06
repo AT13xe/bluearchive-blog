@@ -58,8 +58,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: 'Hello, VitePress',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/AT13xe' },
+      { icon: 'github', url: 'https://github.com/AT13xe' },
+      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
       { icon: 'qq', url: 'https://im.qq.com/index/' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
