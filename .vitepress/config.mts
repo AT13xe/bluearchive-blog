@@ -75,11 +75,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //gitalk配置
-    clientID: 'Ov23lia9U9wFN3WMyoKK',
-    clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
+    clientID: 'Ov23li7ElJjd2pN1CdOc',
+    clientSecret: '30a70fb01ed9c77706c510b39fe7db785cc476e0',
     repo: 'blogtalk',
-    owner: 'Alittfre',
-    admin: ['Alittfre'],
+    owner: 'AT13xe',
+    admin: ['AT13xe'],
   },
   markdown: {
     theme: 'solarized-dark',
