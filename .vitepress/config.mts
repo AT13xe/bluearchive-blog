@@ -40,9 +40,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   ],
   ignoreDeadLinks: true,
   // 生成站点地图
-  // sitemap: {
-  //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
-  // },
+  sitemap: {
+     hostname: 'https://vitepress-theme-bluearchive.vercel.app',
+  },
   title: "AT13xe's 部落格",
   description: "AT13xe's 部落格",
   themeConfig: {
