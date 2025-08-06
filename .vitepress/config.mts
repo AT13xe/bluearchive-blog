@@ -48,8 +48,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   themeConfig: {
     // navBar
     menuList: [
-      { name: '首页', url: '' },
-      { name: '标签', url: 'tags/' },
+      { name: '首页', url: 'bluearchive-blog/' },
+      { name: '标签', url: 'bluearchive-blog/tags/' },
     ],
 
     //banner区配置
