@@ -1,15 +1,15 @@
 ---
-title: 欢迎
-date: 2025/8/6
+title: Hello
+date: 2025-8-6
 tags: [welcome]
 pinned: true
 head:
   - - meta
     - name: description
-      content: 欢迎
+      content: welcome
   - - meta
     - name: keywords
-      content: 欢迎
+      content: welcome
 ---
 
 欢迎大家来到我的博客
@@ -20,4 +20,4 @@ head:
 
 本博客有评论区，欢迎大家在评论区分享自己的看法
 
-本博客以后会更新技术、政治等的文章，敬请期待
+本博客以后会更新信息技术、政治等的文章，敬请期待
