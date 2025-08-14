@@ -76,7 +76,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //gitalk配置
     clientID: 'Ov23li7ElJjd2pN1CdOc',
-    clientSecret: '30a70fb01ed9c77706c510b39fe7db785cc476e0',
+    clientSecret: '17f72680b6fa3340248e316aac419e621248618e',
     repo: 'blogtalk',
     owner: 'AT13xe',
     admin: ['AT13xe'],
